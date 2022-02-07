@@ -1,0 +1,39 @@
+{
+  "name": "global-vox-nft-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlobalVox-theBlockchainTeam/Mint-NFT.git"
+  },
+  "keywords": [
+    "Mint",
+    "NFT",
+    "Ethereum",
+    "NFT",
+    "Solana",
+    "NFT",
+    "NFT",
+    "Transactions"
+  ],
+  "author": "GlobalVox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GlobalVox-theBlockchainTeam/Mint-NFT/issues"
+  },
+  "homepage": "https://github.com/GlobalVox-theBlockchainTeam/Mint-NFT#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.4",
+    "ethers": "^5.5.4",
+    "hardhat": "^2.8.3"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.2.2",
+    "@openzeppelin/contracts": "^4.4.2",
+    "dotenv": "^16.0.0"
+  }
+}
