@@ -1,0 +1,32 @@
+{
+  "name": "global-vox-nft-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlobalVox-theBlockchainTeam/Mint-NFT.git"
+  },
+  "keywords": [
+    "Solana",
+    "Mint",
+    "Transactions"
+  ],
+  "author": "GlobalVox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GlobalVox-theBlockchainTeam/Mint-NFT/issues"
+  },
+  "homepage": "https://github.com/GlobalVox-theBlockchainTeam/Mint-NFT#readme",
+  "dependencies": {
+    "@project-serum/anchor": "^0.20.1",
+    "@solana/spl-token": "^0.1.8",
+    "@solana/web3.js": "^1.33.0",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "os": "^0.1.2"
+  }
+}
